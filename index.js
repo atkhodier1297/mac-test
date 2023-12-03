@@ -3,7 +3,7 @@ function sayHello() {
 }
 
 function sayCodingOnMac() {
-    console.log("Final test for your mac os netowork env!")
+    console.log("Final test for your mac os network env!")
 }
 
 sayHello();
